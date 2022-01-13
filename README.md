@@ -1,2 +1,2 @@
 # simple-saga-rebus
-Exemplo simples de saga com Rebus
+Example of using with RabbitMQ and Rebus
